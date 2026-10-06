@@ -14,3 +14,5 @@ Thank you for your interest in contributing to this project.
 - Keep your changes focused and easy to review.
 - Follow the Code of Conduct in all discussions.
 - Be respectful when giving and receiving feedback.
+Thank you for your interest in contributing to this project
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
